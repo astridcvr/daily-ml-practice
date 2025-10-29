@@ -24,11 +24,11 @@ Data Scientist in Training | Montréal, QC
 
 ---
 
-## Dataset: Sample Sales Data
+## Dataset: Sample Sales Data (E-commerce)
 - **Source**: [Kaggle - Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
-- **Variables**: Order ID, Product, Quantity, Price, Country, Date
-- **Goal**: Predict sales trends, segment customers, forecast demand
-- **URL**: `https://raw.githubusercontent.com/kyanyoga/sample-data/master/SalesJan2009.csv`
+- **Archivo**: `data/SalesJan2009.csv` (subido localmente)
+- **Variables**: `Order`, `Product`, `Quantity`, `Price`, `Country`, `Date`
+- **Goal**: Predict sales, segment customers, forecast demand
 
 ---
 
@@ -41,14 +41,19 @@ Data Scientist in Training | Montréal, QC
 
 ---
 
-## Semaine 1 – Plan
-| Jour | Thème (EN/FR) | Notebook |
-|------|---------------|----------|
-| 01 | Data Loading / Chargement | `day_01_data_loading.ipynb` |
-| 02 | EDA / Analyse exploratoire | `day_02_eda.ipynb` |
-| 03 | Cleaning / Nettoyage | `day_03_cleaning.ipynb` |
-| 04 | Feature Engineering / Ingénierie | `day_04_features.ipynb` |
-| 05 | Model Training / Entraînement | `day_05_model.ipynb` |
+## Plan Diario – 30 Días de Práctica
+
+| Día | Tema (EN/FR) | Archivo | Objetivo |
+|-----|-------------|--------|---------|
+| 01 | Data Loading / Chargement | `notebooks/day_01_data_loading.ipynb` | Cargar CSV local |
+| 02 | EDA / Analyse exploratoire | `notebooks/day_02_eda.ipynb` | Ventas por país |
+| 03 | Cleaning / Nettoyage | `notebooks/day_03_cleaning.ipynb` | Manejar nulos |
+| 04 | Feature Engineering / Ingénierie | `notebooks/day_04_features.ipynb` | Total por orden |
+| 05 | Visualization / Visualisation | `notebooks/day_05_viz.ipynb` | Gráfico de barras |
+| 06 | Model Training / Entraînement | `notebooks/day_06_model.ipynb` | Regresión lineal |
+| 07 | Evaluation / Évaluation | `notebooks/day_07_eval.ipynb` | Métricas |
+| ... | ... | ... | ... |
+| 30 | Deployment / Déploiement | `notebooks/day_30_streamlit.ipynb` | App interactiva |
 
 ---
 
