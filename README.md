@@ -19,8 +19,16 @@ linkedin.com/in/astrid-villalobos
 ---
 
 ## Objectif / Objective
-> **EN**: Improve ML skills with **1 small commit every day** – from data cleaning to model deployment.  
-> **FR**: Améliorer mes compétences en ML avec **1 petit commit par jour** – du nettoyage des données au déploiement.
+> **EN**: Improve ML skills with **1 small commit every day** – analyzing **e-commerce sales data**.  
+> **FR**: Améliorer mes compétences en ML avec **1 petit commit par jour** – en analysant des **données de ventes e-commerce**.
+
+---
+
+## Dataset: Sample Sales Data
+- **Source**: [Kaggle - Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+- **Variables**: Order ID, Product, Quantity, Price, Country, Date
+- **Goal**: Predict sales trends, segment customers, forecast demand
+- **URL**: `https://raw.githubusercontent.com/kyanyoga/sample-data/master/SalesJan2009.csv`
 
 ---
 
