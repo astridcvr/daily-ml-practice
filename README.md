@@ -1,7 +1,7 @@
 Auteur / Author
 Astrid Villalobos
 Data Scientist in Training | Montréal, QC
-linkedin.com/in/astrid-villalobos
+[linkedin.com/in/astrid-villalobos](https://www.linkedin.com/in/astridcvr/)
 
 
 <div align="center">
