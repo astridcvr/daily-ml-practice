@@ -20,7 +20,7 @@ Data Scientist in Training | Montréal, QC
 ---
 
 ## 🎯 Objective / Objectif  
-> **EN:** Strengthen ML skills through **1 small daily commit**, using **e-commerce sales data** to explore analysis, prediction, and automation.  
+> **EN:** Strengthen ML skills through **1 small daily commit**, using **sample sales data** to explore analysis, prediction, and automation.  
 > **FR:** Renforcer les compétences en ML avec **1 petit commit quotidien**, en utilisant des **données de ventes e-commerce** pour explorer l'analyse, la prédiction et l'automatisation.
 
 ---
