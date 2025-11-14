@@ -20,7 +20,8 @@ Data Scientist in Training | Montréal, QC
 ---
 
 ## 🎯 Objective / Objectif  
-> **EN:** Strengthen ML skills through **1 small daily commit**, using **sample sales data** to explore analysis, prediction, and automation.  
+> **EN:** Strengthen ML skills through **1 small daily commit**, using **sample sales data** to explore analysis, prediction, and automation. 
+ 
 > **FR:** Renforcer les compétences en ML avec **1 petit commit quotidien**, en utilisant des **données de ventes e-commerce** pour explorer l'analyse, la prédiction et l'automatisation.
 
 ---
@@ -29,16 +30,16 @@ Data Scientist in Training | Montréal, QC
 - **Source:** [Kaggle - Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)  
 - **File:** `data/sales_data_sample.csv`  
 - **Variables:** `ORDERNUMBER`, `QUANTITYORDERED`, `PRICEEACH`, `SALES`, `COUNTRY`, etc.  
-- **Goal:** Predict sales trends, segment customers, and forecast demand  
+- **Goal:** Predict sales trends, segment customers, and forecast demand. 
 
 ---
 
 ## 🧩 Game Rules / Règles du jeu  
 | Rule | Detail |
 |------|--------|
-| 🟩 1 commit per day | Minimum 1 line of code |
-| 🌍 Bilingual | Comments in English + French |
-| 📈 Visible progress | GitHub activity = green every day |
+| 1 commit per day | Minimum 1 line of code |
+| Bilingual | Comments in English + French |
+| Visible progress | GitHub activity = green every day |
 
 ---
 
