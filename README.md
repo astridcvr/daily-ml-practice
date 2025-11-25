@@ -34,6 +34,37 @@ Data Scientist in Training | Montréal, QC
 
 ---
 
+## 📘 Data Dictionary / Dictionnaire des données
+
+| Column Name          | Description (EN)                                             | Description (FR)                                                            |
+| -------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| **ORDERNUMBER**      | Unique identifier for each order.                            | Identifiant unique pour chaque commande.                                    |
+| **QUANTITYORDERED**  | Number of units ordered.                                     | Nombre d’unités commandées.                                                 |
+| **PRICEEACH**        | Price per unit.                                              | Prix par unité.                                                             |
+| **ORDERLINENUMBER**  | Line number inside the order (useful for multi-item orders). | Numéro de ligne dans la commande (utile pour les commandes multi-articles). |
+| **SALES**            | Total amount of the order line (quantity × price).           | Montant total de la ligne de commande (quantité × prix).                    |
+| **ORDERDATE**        | Date when the order was created.                             | Date à laquelle la commande a été créée.                                    |
+| **STATUS**           | Order status (e.g., Shipped, Cancelled).                     | Statut de la commande (ex. : Expédiée, Annulée).                            |
+| **QTR_ID**           | Quarter of the year (1–4).                                   | Trimestre de l’année (1–4).                                                 |
+| **MONTH_ID**         | Month number (1–12).                                         | Numéro du mois (1–12).                                                      |
+| **YEAR_ID**          | Year of the order.                                           | Année de la commande.                                                       |
+| **PRODUCTLINE**      | Product category (e.g., Classic Cars, Motorcycles).          | Catégorie du produit (ex. : Voitures Classiques, Motos).                    |
+| **MSRP**             | Manufacturer’s Suggested Retail Price.                       | Prix de vente suggéré par le fabricant.                                     |
+| **CUSTOMERNAME**     | Name of the customer/company.                                | Nom du client/de l’entreprise.                                              |
+| **PHONE**            | Customer phone number.                                       | Numéro de téléphone du client.                                              |
+| **ADDRESSLINE1**     | Customer address line 1.                                     | Adresse du client ligne 1.                                                  |
+| **ADDRESSLINE2**     | Customer address line 2 (optional).                          | Adresse du client ligne 2 (optionnel).                                      |
+| **CITY**             | City of the customer.                                        | Ville du client.                                                            |
+| **STATE**            | State/Province (may be empty for some countries).            | État/Province (peut être vide selon les pays).                              |
+| **POSTALCODE**       | Postal/ZIP code.                                             | Code postal.                                                                |
+| **COUNTRY**          | Country of the customer.                                     | Pays du client.                                                             |
+| **TERRITORY**        | Sales territory associated with the customer.                | Territoire de vente associé au client.                                      |
+| **CONTACTLASTNAME**  | Last name of the contact person.                             | Nom de famille du contact.                                                  |
+| **CONTACTFIRSTNAME** | First name of the contact person.                            | Prénom du contact.                                                          |
+| **DEALSIZE**         | Size of the deal (e.g., Small, Medium, Large).               | Taille de la vente (ex. : Petite, Moyenne, Grande).                         |
+
+---
+
 ## 🧩 Game Rules / Règles du jeu  
 | Rule | Detail |
 |------|--------|
